@@ -28,4 +28,4 @@ jobs:
 
       - name: Run Crop Yield ML Pipeline
         run: |
-          python "Model training.py"
+          python "Complete Crop Yield Prediction Pipeline.py"
